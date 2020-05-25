@@ -32,4 +32,4 @@ spec:
       cri:
         kind: docker
         package: docker-ce
-        version: 19.03.8
+        version: 19.03.9
